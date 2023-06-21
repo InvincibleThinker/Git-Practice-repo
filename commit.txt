@@ -1,0 +1,1 @@
+using "git commit" command you can save the file and chages added to staging area
