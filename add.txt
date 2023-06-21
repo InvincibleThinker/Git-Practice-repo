@@ -1,0 +1,1 @@
+using "git add" command you can send changes to staging area
