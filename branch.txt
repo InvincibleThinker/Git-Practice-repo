@@ -1,3 +1,0 @@
-this is branching concept in git and github
-to add branch "git branch branchname" command is used
-to checkout new brach "git checkout branch name" command is used
